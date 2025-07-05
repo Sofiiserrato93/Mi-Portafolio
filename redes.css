@@ -1,0 +1,28 @@
+
+.WhatsApp{
+    background-image: url(Whats.png);
+    background-size: cover;
+    width: 200px;
+    height: 200px;
+}
+.Instagram{
+    background-image: url(Insta.png);
+    background-size: cover;
+    width: 200px;
+    height: 200px;
+}
+.iconos_de_redes{
+   
+    margin: auto;
+    width: 600px;
+    border-radius: 2px solid #ffffff ;
+}
+.redes{
+    width: 300px;
+    height: 300px;
+    margin: auto;
+    padding: 10px;
+}
+p{
+    text-align: center;
+}

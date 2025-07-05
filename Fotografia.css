@@ -1,0 +1,171 @@
+.art1{
+    width: 350px;
+    margin-right: 30px;
+}
+div{
+    margin-bottom: 30px;
+    border-radius: 20px;
+    border: 2px solid #3A0519;
+}
+.img1{
+    width: 300px;
+    height: 300px;
+    background-image: url(Foto1.jpg);
+    background-size: cover;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.img2{
+    width: 300px;
+    height: 300px;
+    background-image: url(Foto2.jpg);
+    background-size: cover;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.img3{
+    width: 300px;
+    height: 300px;
+    background-image: url(Foto3.jpg);
+    background-size: cover;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.img4{
+    width: 300px;
+    height: 300px;
+    background-image: url(Foto4.jpg);
+    background-size: cover;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.img5{
+    width: 300px;
+    height: 300px;
+    background-image: url(Foto5.jpg);
+    background-size: cover;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.img6{
+    width: 300px;
+    height: 300px;
+    background-image: url(Foto6.jpg);
+    background-size: cover;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.img7{
+    width: 300px;
+    height: 300px;
+    background-image: url(Foto7.jpg);
+    background-size: cover;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.img8{
+    width: 300px;
+    height: 300px;
+    background-image: url(Foto8.jpg);
+    background-size: cover;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.img9{ 
+   width: 300px;
+    height: 300px;
+    background-image: url(Foto9.jpg);
+    background-size: cover;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.img10{
+    width: 300px;
+    height: 300px;
+    background-image: url(Foto10.jpg);
+    background-size: cover;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.img11{
+    width: 300px;
+    height: 300px;
+    background-image: url(Foto11.jpg);
+    background-size: cover;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.img12{
+    width: 300px;
+    height: 300px;
+    background-image: url(Foto12.jpg);
+    background-size: cover;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.feed{
+    margin: auto;
+    padding-left: 30px;
+    padding-right: 30px;
+    width: 1110px;
+
+}
+.Ampliar{
+  width: 300px;
+  height: 200px;
+  border-radius: 8px;
+  transition: transform 0.3s ease;
+}
+.Ampliar:hover{
+    transform: scale(1.03);
+    cursor: pointer;
+    transform: scale(1.05);
+}
+.img1:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+}
+.img2:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+}
+.img3:hover:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+}
+.img4:hover:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+}
+.img5:hover:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+}
+.img6:hover:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+}
+.img7:hover:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+}
+.img8:hover:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+}
+.img9:hover:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+}
+.img10:hover:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+}
+.img11:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+}
+.img12:hover:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+}

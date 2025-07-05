@@ -1,0 +1,317 @@
+*{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+a{
+    text-decoration: none;
+    color: #3A0519;
+}
+header{
+    background-color: #c4879d;
+    padding-top: 10px;
+}
+h1 {
+    font-size: 50pt;
+    color: #3A0519;
+    text-align: center;
+}
+.menu{
+    margin: auto;
+    margin-bottom: 15px;
+    font-size: 20px;
+}
+.Conoceme{
+    margin-right: 10px;
+}
+.conoceme:hover{
+    font-size: 25pt;
+    color: rgb(69, 34, 119);
+    transition: 1s;
+}
+.conoceme2{
+    background-color: rebeccapurple;
+    color: beige;
+    display: none;
+    transition: 3s;
+    padding: 5px;
+}
+.btnconoceme:hover>.conoceme2{
+    color: black;
+    background-color: rgba(99, 23, 48, 0.308);
+    display: block;
+    transition: 3s;
+    font-size: 10pt;
+}
+.Portafolio{
+    margin-right: 10px;
+}
+.Portafolio:hover{
+    font-size: 25pt;
+    color: rgb(69, 34, 119);
+    transition: 1s;
+}
+.portafolio2{
+    background-color: rebeccapurple;
+    color: beige;
+    display: none;
+    transition: 3s;
+    padding: 5px;
+}
+.btnportafolio:hover>.portafolio2{
+    color: black;
+    background-color: rgba(99, 23, 48, 0.308);
+    display: block;
+    transition: 3s;
+    font-size: 10pt;
+}
+.Servicios{
+    margin-right: 10px;
+}
+.Servicios:hover{
+    font-size: 25pt;
+    color: rgb(69, 34, 119);
+    transition: 1s;
+}
+.servicios2{
+    background-color: rebeccapurple;
+    color: beige;
+    display: none;
+    transition: 3s;
+    padding: 5px;
+}
+.btnservicios:hover>.servicios2{
+    color: black;
+    background-color: rgba(99, 23, 48, 0.308);
+    display: block;
+    transition: 3s;
+    font-size: 10pt;
+    padding: 5px;
+}
+.contacto:hover{
+    font-size: 25pt;
+    color: rgb(69, 34, 119);
+    transition: 1s;
+}
+.contacto2{
+    background-color: rebeccapurple;
+    color: beige;
+    display: none;
+    transition: 3s;
+    padding: 5px;
+}
+.btncontacto:hover>.contacto2{
+    color: black;
+    background-color: rgba(99, 23, 48, 0.308);
+    display: block;
+    transition: 3s;
+    font-size: 10pt;
+
+}
+.separador{
+     width: 100%;
+     height: 8px;
+     background: linear-gradient(to bottom, #3a0519b9, #7e2b4bb2); 
+     box-shadow: 0 10px 15px -6px #69243fb9); 
+     margin-bottom: 20px; 
+     position: relative;
+     z-index: 1;
+}
+.Inicio{
+    color: #3A0519;
+    text-align: center;
+    font-size: 25px;
+    margin-top: 0px;
+    padding: 10px;
+}
+h2{
+    color: #3A0519;
+    text-align: center;
+    font-size: 20px;
+    padding: 5px;
+}
+main{
+    background-color: #dd9db496;
+    margin-top: 0px;
+    padding-bottom: 30px;
+}
+.Descripcion{
+    width: 1000px;
+    margin: auto;
+    background: #69243e5b;
+    border: 2px solid #5a152f; 
+    border-radius: 16px;
+    padding: 20px 25px;
+    margin: 40px auto;
+    box-shadow: 0 15px 25px rgba(0, 0, 0, 0.15);
+    color: #fafafa;
+    line-height: 1.6;
+    font-size: 16px;
+    text-align: center;
+}
+.Muestras{
+    width: 400px;
+    margin: auto;
+    font-size: 12px;
+    text-align: left;
+    border: 2px solid #3A0519;
+    border-radius: 15px;
+}
+p{
+    padding: 10px;
+}
+.Guia{
+    width: 300px;
+    height: 400px;
+    margin: auto;
+    background-image: url(Guia\ de\ Marca.PNG);
+    background-size: cover;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.Postales{
+    width: 300px;
+    height: 400px;
+    margin: auto;
+    background-image: url(Postales.png);
+    background-size: cover;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.Cartas{
+    width: 300px;
+    height: 400px;
+    margin: auto;
+    background-image: url(Cartas\ 1.PNG);
+    background-size: cover;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.tablero{
+    width: 300px;
+    height: 400px;
+    margin: auto;
+    background-image: url(Tablero\ de\ Juego.PNG);
+    background-size: cover;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+footer{
+    
+    background-color:#3a0519d0;
+    color: #ffffff;
+    display: grid;
+    grid-template-rows: auto auto;
+    padding: 20px;
+    gap: 20px;
+    }
+.hojadevida {
+   margin-top: 20px; 
+   transition: all 0.3s ease;
+   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+   text-decoration: none;
+   border-radius: 12px;  
+   display: inline-block;
+   background-color: #3A0519
+}
+
+.hojadevida:hover {
+  background-color: #3A0519;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+  transform: translateY(-2px);
+}
+button{
+    background: none;
+    color: #ffffff;
+    border: none;
+    font-size: 16px;
+   padding: 12px 24px;
+}
+footer section {
+  flex: 1 1 200px;
+}
+footer p {
+  margin: 8px 0;
+  font-size: 14px;
+}
+
+footer a {
+  color: white;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+footer a:hover {
+  color: #FFC0CB;
+}
+
+.menu1 article p a::before {
+  content: "📝 ";
+}
+
+.menu2 article p a::before {
+  content: "🎨 ";
+}
+
+.Menu3 article p a::before {
+  content: "📱 ";
+}
+.menu1::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 1px;
+  height: 100%;
+  background-color: #2b0312;
+}
+.menu2::after {
+  content: "|";
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 1px;
+  font-size: 20px;
+  background-color: #2b0413;
+}
+.footer-final {
+  text-align: center;
+  border-top: 1px solid white;
+  padding-top: 15px;
+  font-size: 14px;
+}
+.footer-contenido{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+.foto-pagina {
+  width: 250px;
+  background-color: #fff;
+  border: 3px solid #3A0519;
+  padding: 10px 10px 20px 10px; /* más espacio abajo como una polaroid real */
+  text-align: center;
+  box-shadow: 4px 6px 12px rgba(0,0,0,0.3);
+  margin: 40px auto;
+  border-radius: 10px;
+  transition: transform 0.3s ease;
+}
+
+.foto-pagina img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  border-radius: 5px;
+}
+
+.foto-pagina:hover {
+  transform: scale(1.03);
+}
+
+.nombrepolaroid {
+  margin-top: 12px;
+  font-size: 16px;
+  color: #3A0519;
+}

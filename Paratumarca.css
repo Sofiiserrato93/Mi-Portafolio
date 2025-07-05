@@ -1,0 +1,45 @@
+.Muestras{
+    width: 800px;
+    margin: auto;
+    font-size: 20px;
+    text-align: left;
+    border: 3px solid #3A0519;
+    border-radius: 15px;
+    margin-bottom: 20px;
+    padding: 15px;
+    
+}
+p{
+    padding: 10px;
+}
+h2{
+    font-size: 25px;
+}
+.MockUps{
+    background-image: url(Tote\ Bag\ Neutra.jpeg);
+    width: 500px;
+    height: 600px;
+    margin: auto;
+    background-size: cover;
+    border-radius: 10px;
+    margin-top: 10px;
+
+}
+.Guia{
+    width: 500px;
+    height: 600px;
+    margin: auto;
+    background-image: url(Guia\ de\ Marca.PNG);
+    background-size: cover;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.Postales{
+    width: 500px;
+    height: 600px;
+    margin: auto;
+    background-image: url(Postales.png);
+    background-size: cover;
+    border-radius: 10px;
+    margin-top: 10px;
+}

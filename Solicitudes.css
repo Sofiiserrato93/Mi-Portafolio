@@ -1,0 +1,50 @@
+.formulario {
+  background-color: #d894aa;
+  padding: 30px;
+  margin: 40px auto;
+  max-width: 400px;
+  border-radius: 15px;
+  box-shadow: 0 4px 10px rgba(59, 0, 29, 0.2);
+  color: #3b001d;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+
+.form-article .intro {
+  background-color: #fbe5ec;
+  padding: 12px;
+  border-radius: 8px;
+  text-align: center;
+  font-size: 14px;
+}
+
+.form-article label {
+  font-weight: bold;
+}
+
+.form-article input,
+.form-article textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #3b001d;
+  border-radius: 8px;
+  background-color: #fbe5ec;
+  color: #3b001d;
+  font-size: 14px;
+}
+
+.form-article button {
+  padding: 10px;
+  background-color: #3b001d;
+  color: white;
+  font-weight: bold;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.form-article button:hover {
+  background-color: #5b2239;
+}
