@@ -6,7 +6,7 @@
   border-radius: 15px;
   box-shadow: 0 4px 10px rgba(59, 0, 29, 0.2);
   color: #3b001d;
-  display: flex;
+  display: block;
   flex-direction: column;
   gap: 15px;
 }
