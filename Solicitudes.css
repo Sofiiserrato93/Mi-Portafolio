@@ -26,7 +26,7 @@
 
 .form-article input,
 .form-article textarea {
-  width: 100%;
+  width: 400px;
   padding: 10px;
   border: 1px solid #3b001d;
   border-radius: 8px;
